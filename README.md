@@ -8,3 +8,6 @@ Gradient Descent: https://hackernoon.com/dl03-gradient-descent-719aff91c7d6
 Chain Rule in differentiation (for backpropogation): http://www.mathcentre.ac.uk/resources/uploaded/mc-ty-chain-2009-1.pdf
 
 Backpropogation paper 1996: http://www.iro.umontreal.ca/~pift6266/A06/refs/backprop_old.pdf
+
+https://preview.redd.it/z516nyulc4r31.gif?format=mp4&s=7da7884ef4b131d8128a95fab800bee395b664ec
+
