@@ -23,3 +23,8 @@ Deep Learning: Is basically learning input to output mapping using complex funct
 Applied ML is a highly iterative process.
 
 Baye's Error = Human Error (e.g. classifying a blurry image by a human, etc.)
+
+High Bias Problem: Try bigger (more neurons) & Deeper (more layers) Network; Train GD longer; Search for NN Architecture
+
+High Variance Problem: Collect more training data; Try regularization techniques
+
