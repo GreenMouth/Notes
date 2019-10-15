@@ -21,3 +21,5 @@ import sys
 Deep Learning: Is basically learning input to output mapping using complex functions.
 
 Applied ML is a highly iterative process.
+
+Baye's Error = Human Error (e.g. classifying a blurry image by a human, etc.)
