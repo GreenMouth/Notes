@@ -26,5 +26,5 @@ Baye's Error = Human Error (e.g. classifying a blurry image by a human, etc.)
 
 High Bias Problem (Underfitting): Try bigger (more neurons) & Deeper (more layers) Network; Train GD longer; Search for NN Architecture
 
-High Variance Problem (Overfitting): Collect more training data; Try regularization techniques
+High Variance Problem (Overfitting): Collect more training data; Try regularization techniques; Search for NN Architecture
 
