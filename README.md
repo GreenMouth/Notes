@@ -14,3 +14,6 @@ https://preview.redd.it/z516nyulc4r31.gif?format=mp4&s=7da7884ef4b131d8128a95fab
 
 The tanh activation usually works better than sigmoid activation function for hidden units because the mean of its output is closer to zero, and so it centers the data better for the next layer. 
 
+# Install a conda package in the current Jupyter kernel
+import sys
+!conda install --yes --prefix {sys.prefix} psycopg2
