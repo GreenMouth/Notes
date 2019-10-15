@@ -28,3 +28,7 @@ High Bias Problem (Underfitting): Try bigger (more neurons) & Deeper (more layer
 
 High Variance Problem (Overfitting): Collect more training data; Try regularization techniques; Search for NN Architecture
 
+If you are 'regularizing' NN, then training bigger network will never hurt: Regularization will take care of bias-variance trade off problem; Might add bias sometimes but not a major concern
+
+
+
