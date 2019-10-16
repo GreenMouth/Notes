@@ -18,7 +18,7 @@ The tanh activation usually works better than sigmoid activation function for hi
 import sys
 !conda install --yes --prefix {sys.prefix} psycopg2
 
-Deep Learning: Is basically learning input to output mapping using complex functions.
+Deep Learning: Is basically learning input to output mapping using complex functions. Learn non linear decision boundaries.
 
 Applied ML is a highly iterative process.
 
