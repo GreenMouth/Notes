@@ -30,4 +30,9 @@ High Variance Problem (Overfitting): Collect more training data; Try regularizat
 
 If you are 'regularizing' NN, then training bigger network will never hurt: Regularization will take care of bias-variance trade off problem; Might add bias sometimes but not a major concern. Fix overfitting using Regularization.
 
+L2 Regularization is used more comonly in Deep NN. L1 Regularization creates a sparse metrix of W (weights) and includes a lot of zeros. 
+L2 regularization is also called 'weight decay'.
+
+
+
 
