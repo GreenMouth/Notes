@@ -33,6 +33,8 @@ If you are 'regularizing' NN, then training bigger network will never hurt: Regu
 L2 Regularization is used more comonly in Deep NN. L1 Regularization creates a sparse metrix of W (weights) and includes a lot of zeros. 
 L2 regularization is also called 'weight decay'.
 
+With high lambda (regularization parameter), weights will be close to 0. That will make a lot of neurons effect = 0; network will become simpler (but still deep); and thus high variance network becomes high bias and then eventually learns function which is 'just right'.
+
 
 
 
