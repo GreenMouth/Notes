@@ -35,7 +35,6 @@ L2 regularization is also called 'weight decay'.
 
 With high lambda (regularization parameter), weights will be close to 0. That will make a lot of neurons effect = 0 or less effect; network will become simpler (but still deep); and thus high variance network becomes high bias and then eventually learns function which is 'just right'.
 
-
 Machine Learning can solve a specific 'well defined' task.
 
 #Normalization vs Standardization:
@@ -44,9 +43,14 @@ Normalize means in mathematics divide a vector by its magnitude to produce a uni
 Standardization means to transform it to have zero mean (subtraction of mean). 
 Normalization scales in data in short interval like [0,1] and data in standardization are unbounded.
 
-
 Order of Operations in Arithmetic:
 PEMDAS - Parentheses, Exponents, Multiplication/Division, Addition/Subtraction.
+
+Increase width of a cell in Jupyter Notebook:
+from IPython.core.display import display, HTML
+display(HTML("<style>.container { width:100% !important; }</style>"))
+
+
 
 
 
