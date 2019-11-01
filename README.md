@@ -50,7 +50,8 @@ Increase width of a cell in Jupyter Notebook:
 from IPython.core.display import display, HTML
 display(HTML("<style>.container { width:100% !important; }</style>"))
 
-
+ANOVA vs Linear Regression:
+https://www.theanalysisfactor.com/why-anova-and-linear-regression-are-the-same-analysis/
 
 
 
