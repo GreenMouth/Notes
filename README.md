@@ -54,5 +54,5 @@ ANOVA vs Linear Regression:
 https://www.theanalysisfactor.com/why-anova-and-linear-regression-are-the-same-analysis/
 
 
-
+https://www.kaggle.com/getting-started/90168
 
