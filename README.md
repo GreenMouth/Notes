@@ -56,3 +56,20 @@ https://www.theanalysisfactor.com/why-anova-and-linear-regression-are-the-same-a
 
 https://www.kaggle.com/getting-started/90168
 
+
+Q&A:
+1) In what ways could the frequentist paradigm be considered objective?
+Ans: Results are based on pure repetition in a sequence.  Hence, given a sequence, the answer will always be the same.
+
+2)  In what ways could the Bayesian paradigm be considered objective?
+Ans: If participant in a study have a same hypothesis, then Bayesian paradigm is considered objective
+
+3) Identify ways in which frequentist paradigm might be considered subjective.
+Ans: If the sequence of data is not complete, then the results from the observed sequence could be due to chance. Hence, frequentist paradigm can be subjective
+
+4) Identify ways in which Bayesian paradigm might be considered subjective.
+Ans: If participants have different background/hypothesis/observations  about the problem then Bayesian paradigm becomes subjective
+
+(Answer 2: Bayesian paradigm is objective when prior probablities are known, e.g. Sale of Umbrela's goes up with prediction of rain. Frequentist approach is objective when we have the imablace of counts/frequency e..g. A group of folks prefering coffee over tea then P(Cofee) > P(Tea))
+
+
