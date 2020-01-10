@@ -73,3 +73,5 @@ Ans: If participants have different background/hypothesis/observations  about th
 (Answer 2: Bayesian paradigm is objective when prior probablities are known, e.g. Sale of Umbrela's goes up with prediction of rain. Frequentist approach is objective when we have the imablace of counts/frequency e..g. A group of folks prefering coffee over tea then P(Cofee) > P(Tea))
 
 
+Gradient Descent:
+You can check whether the value of loss function is very close to the value from previous iteration or that the norm of gradient vector is close to zero.
