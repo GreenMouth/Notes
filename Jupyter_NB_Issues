@@ -1,0 +1,10 @@
+
+Q1. Accidently printed huge output inside a notebook -- resulting in notebook freeze & can't open again
+Answer:
+Run using terminal:
+** pip install --upgrade nbstripout
+** nbstripout Untitled.ipynb
+
+Basically, above code snippet will clear all output printed inside a Jupyter notebook.
+You can open & use your notebook normally now.
+
