@@ -10,3 +10,6 @@ Build persona of customer segments
 https://analyticsartist.wordpress.com/2014/01/31/adstock-rate-deriving-with-analytical-methods/
 
 https://medium.com/@ank.agarw/optimizing-brand-campaign-spends-using-machine-learning-ml-4a19a5353b5d
+
+There are many techniques from data science like Bayesian statistical modelling or hidden Markov models that 
+can be used in order to model a user’s journey and predict how a user would behave if the journey was to slightly change.
