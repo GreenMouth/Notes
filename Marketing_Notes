@@ -11,5 +11,28 @@ https://analyticsartist.wordpress.com/2014/01/31/adstock-rate-deriving-with-anal
 
 https://medium.com/@ank.agarw/optimizing-brand-campaign-spends-using-machine-learning-ml-4a19a5353b5d
 
+https://www.quantcast.com/blog/selling-more-stuff-the-what-why-how-of-incrementality-testing/
+
+Incrementality Measure: (e.g. Direct Mail)
 There are many techniques from data science like Bayesian statistical modelling or hidden Markov models that 
 can be used in order to model a user’s journey and predict how a user would behave if the journey was to slightly change.
+
+Since human nature is unpredictable, even when trying to control for every variable, there will always be some level of unpredictability.
+If you are running media outside your test with other programmatic vendors, digital channel partners (social, search), 
+or traditional offline partners (TV, billboards, radio, print), how are you ensuring the control group is not exposed 
+to your brand through these other marketing efforts? 
+The point of a control group is to be unbiased. If your control group is exposed to other media in uneven or unknown ways, 
+you risk data contamination.
+The expectation that advertisers will turn off all other media for a test is unrealistic, but it should play into interpreting results.
+
+Control group should be same in testing incrementality.
+In a strict incremental lift test, your control audience should be identical to your exposed audience, 
+but to inflate lift, some vendors may target an inferior control group.
+
+Statistical significance are measured through ‘confidence levels’.
+Confidence levels are the minimum threshold at which results cannot be due to random chance, and that if repeated, would return similar results.
+
+
+
+
+
