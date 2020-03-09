@@ -1,0 +1,13 @@
+
+
+X- Axis: Domain
+Y-Axis: Range
+
+The 'domain' is the time between sunrise and sunset, 
+whereas the 'range' is the axis from 0 to the maximum elevation the sun will have on a particular day on a particular latitude.
+
+Domain is also defined as a set of all probable input values. 
+This means that the output value will depend on each member. 
+On the other hand, range is defined as a set of all probable output values.
+
+Domain is what is put into a function, whereas range is what is the result of the function with the domain value.
