@@ -8,3 +8,9 @@ X = sc.fit_transform(X)
 
 
 Deploy models using OOP (object oriented programming) - use classes instead of function, etc.
+
+Neural Networks Learning Steps: (Image)
+layer 1: (Pixel to Edges) (input & hidden layer 1)
+layer 2: edges to pattern (hidden layer 1 & hidden layer 2)
+final_layer: pattern to image recognition
+
