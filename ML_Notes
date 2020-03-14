@@ -14,3 +14,4 @@ layer 1: (Pixel to Edges) (input & hidden layer 1)
 layer 2: edges to pattern (hidden layer 1 & hidden layer 2)
 final_layer: pattern to image recognition
 
+MNIST Dataset: Modified National Institute of Standards & Technology
