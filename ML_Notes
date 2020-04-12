@@ -15,3 +15,7 @@ layer 2: edges to pattern (hidden layer 1 & hidden layer 2)
 final_layer: pattern to image recognition
 
 MNIST Dataset: Modified National Institute of Standards & Technology
+
+
+In LINEAR Models: Ridge regularisation (L2 Regularisation) does not shrink the coefficients to zero. 
+However, Lasso regularization (L1) shrinks the coefficient to ZERO. 
