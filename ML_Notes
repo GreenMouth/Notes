@@ -28,5 +28,6 @@ For classification, the measure of impurity is either the Gini impurity or the i
 For regression the measure of impurity is variance.
 Feature Importance:  The more a feature decreases the impurity, the more important the feature is.
 
+Feature Selection: from sklearn.feature_selection import SelectFromModel
 
 
