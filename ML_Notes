@@ -19,3 +19,14 @@ MNIST Dataset: Modified National Institute of Standards & Technology
 
 In LINEAR Models: Ridge regularisation (L2 Regularisation) does not shrink the coefficients to zero. 
 However, Lasso regularization (L1) shrinks the coefficient to ZERO. 
+
+Random Forest:
+RF consists of 100s of decision trees each of them built over a "random extraction of the observations" from the dataset and a
+"random extraction of features".
+Not every tree sess ALL observations or features hence trees are de-correlated and less prone to overfitting.
+For classification, the measure of impurity is either the Gini impurity or the information gain/entropy.
+For regression the measure of impurity is variance.
+Feature Importance:  The more a feature decreases the impurity, the more important the feature is.
+
+
+
