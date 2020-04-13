@@ -29,5 +29,5 @@ For regression the measure of impurity is variance.
 Feature Importance:  The more a feature decreases the impurity, the more important the feature is.
 
 Feature Selection: from sklearn.feature_selection import SelectFromModel
-
+SelectKBest or SelectPercentile from sklearn
 
