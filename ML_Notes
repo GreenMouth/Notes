@@ -32,3 +32,4 @@ Tree model suffers from "feature multicollinearity". Hence select features recur
 Feature Selection: from sklearn.feature_selection import SelectFromModel
 SelectKBest or SelectPercentile from sklearn
 
+Naive Bayes assumes the data to be normally distributed which can be achieved by scaling using the MaxAbsScaler. 
