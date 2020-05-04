@@ -1,0 +1,15 @@
+Create conda virtual environment:
+(base) Prashants-MBP:lifetime-value shinde$ conda env create --name py17_pnbd --file environment.yml
+
+List all conda environments:
+(base) Prashants-MBP:lifetime-value shinde$ conda env list 
+
+Activate virtual environment:
+(base) Prashants-MBP:lifetime-value shinde$ conda activate py17_pnbd
+(py17_pnbd) Prashants-MBP:lifetime-value shinde$ 
+
+Deactivate virtual environment:
+(py17_pnbd) Prashants-MBP:lifetime-value shinde$ conda deactivate
+(base) Prashants-MBP:lifetime-value shinde$ 
+
+
