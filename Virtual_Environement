@@ -1,4 +1,4 @@
-Create conda virtual environment:
+Create conda virtual environment using YAML file:
 (base) Prashants-MBP:lifetime-value shinde$ conda env create --name py17_pnbd --file environment.yml
 
 List all conda environments:
