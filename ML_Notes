@@ -33,3 +33,11 @@ Feature Selection: from sklearn.feature_selection import SelectFromModel
 SelectKBest or SelectPercentile from sklearn
 
 Naive Bayes assumes the data to be normally distributed which can be achieved by scaling using the MaxAbsScaler. 
+
+Pandas vs DASK df:
+As great as it is, Pandas achieves its speed by 
+holding the dataset in RAM when performing calculations. That’s why it comes with a certain limitation.
+But you can sometimes deal with larger-than-memory datasets in Python using Pandas and another handy open-source Python library, Dask.
+dask.dataframes — that are based on lazy loading and can be used to perform dataframe operations in chunks and in parallel.
+
+
