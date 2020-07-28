@@ -4,3 +4,11 @@
 # No header row
 # Outcome variable in the first column, features in the rest of the columns 
 # All columns need to be numeric
+
+
+# 70% train, 15% validation, 15% test
+print(df_train.shape) #these samples are used to train the model
+print(df_valid.shape) #these samples are held out from the training data and are used to make decisions on how to improve the model
+print(df_test.shape) #these samples are held out from all decisions and are used to measure the generalized performance of the model
+
+
