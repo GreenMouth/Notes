@@ -31,3 +31,6 @@ print(df_test.shape) #these samples are held out from all decisions and are used
 https://github.com/awslabs/amazon-sagemaker-examples
 
 https://github.com/awslabs/amazon-sagemaker-examples/blob/master/sagemaker-debugger/xgboost_builtin_rules/xgboost-regression-debugger-rules.ipynb
+
+# get_fscore(): This is a metric that simply sums up how many times each feature is split on. (XGB)
+
