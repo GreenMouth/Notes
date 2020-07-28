@@ -25,3 +25,9 @@ print(df_test.shape) #these samples are held out from all decisions and are used
 
 # Select the best model based on performance on the VALIDATION dataset
 # And use below function to measure model performance on TEST dataset
+
+# https://aws.amazon.com/blogs/machine-learning/simplify-machine-learning-with-xgboost-and-amazon-sagemaker/
+
+https://github.com/awslabs/amazon-sagemaker-examples
+
+https://github.com/awslabs/amazon-sagemaker-examples/blob/master/sagemaker-debugger/xgboost_builtin_rules/xgboost-regression-debugger-rules.ipynb
