@@ -12,3 +12,9 @@ print(df_valid.shape) #these samples are held out from the training data and are
 print(df_test.shape) #these samples are held out from all decisions and are used to measure the generalized performance of the model
 
 
+# After training, we can use the estimator to create an Amazon SageMaker endpoint 
+# Amazon SageMaker endpoint is a hosted and managed prediction service that we can use to perform inference.
+# Deploy the model on a server and create an endpoint that you can access
+# After the model is trained, this step deploys our model to Amazon SageMaker hosting. 
+# It takes a few minutes to set up the hosting endpoin -- Takes ~5 minutes
+
