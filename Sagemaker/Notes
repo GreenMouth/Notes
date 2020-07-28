@@ -22,3 +22,6 @@ print(df_test.shape) #these samples are held out from all decisions and are used
 # If you're done with this exercise, please run the delete_endpoint line in the cell below. 
 # This will remove the hosted endpoint and avoid any charges from a stray instance being left on.
 # Tear down the SageMaker endpoint
+
+# Select the best model based on performance on the VALIDATION dataset
+# And use below function to measure model performance on TEST dataset
