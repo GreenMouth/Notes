@@ -1,1 +1,6 @@
 
+
+# Model Training: XGBOOST Sagemaker Requiremetns
+# No header row
+# Outcome variable in the first column, features in the rest of the columns 
+# All columns need to be numeric
