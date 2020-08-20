@@ -1,1 +1,25 @@
 
+TSV: Tab seperated value 
+CSV: Comma seperated value
+
+NOTE: 
+DO NOT convert TSV to CSV and choose column from CSB (WRONG!!)
+Because a column in TSV file can have multiple values like 1,2,3,4 and when you convert to CSV those will be come seperate columns each.
+Column 1 in TSV: 1,2,3,4
+Column 1 in CSV: 1
+
+TSV files are usually large and requires to use bash to explore file on local machine.
+
+BASH Commands:
+
+# Get data of column 746 from a TSV files and save in CSV
+cut -d '      ' -f 746 hit_data.tsv > hit_data_746.csv
+
+# Explore first row
+head 1 hit_data.tsv
+
+# print nth column 
+awk '{print$745}' hit_data.tsv
+
+
+ 
