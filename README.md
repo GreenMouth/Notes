@@ -1,5 +1,9 @@
 # Notes
 
+The “No Free Lunch” theorem states that there is no one model that works best for every problem. 
+The assumptions of a great model for one problem may not hold for another problem, 
+so it is common in machine learning to try multiple models and find one that works best for a particular problem
+
 
 Hyperparameter Optimization: https://alykhantejani.github.io/images/gradient_descent_line_graph.gif
 
